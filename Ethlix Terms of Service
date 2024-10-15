@@ -1,0 +1,64 @@
+1. Acceptance of Terms
+By adding, inviting, or using Ethelix in any Discord server, you acknowledge and agree to these Terms. If you do not agree with any part of these Terms, you are prohibited from using Ethelix.
+
+2. Description of Service
+Ethelix is a Discord bot designed to enhance your server's music experience. It allows users to stream music, create playlists, and interact with audio content from various sources. Key features include:
+
+Playing music from services such as YouTube, Spotify, SoundCloud, and more.
+Managing a queue of songs (adding, removing, skipping, shuffling tracks).
+Playlist creation and management.
+Volume control and audio customization.
+Streaming and audio playback capabilities.
+Ethelix does not host or store any music content but acts as a player that streams content from third-party platforms.
+
+3. Usage Rules
+By using Ethelix, you agree to the following guidelines:
+
+Respect intellectual property rights. Do not use Ethelix to play or stream content in violation of any copyright, trademark, or intellectual property laws. You must ensure that any content streamed via the bot is used lawfully and in compliance with licensing agreements.
+
+No spamming or disruptive use. Do not spam commands or disrupt the flow of audio by excessively queuing or playing songs in a way that negatively affects other users.
+
+No exploitation or abuse. You must not abuse, exploit, reverse-engineer, or manipulate Ethelix in any way to harm the bot, its users, or the Discord servers it is added to.
+
+Server administration responsibility. Server owners and administrators are responsible for managing Ethelix’s permissions and ensuring its use aligns with the Discord community standards, as well as their own server rules.
+
+4. Third-Party Services
+Ethelix relies on external services, such as YouTube, SoundCloud, and Spotify, to provide audio streaming. When using Ethelix, you agree to the following:
+
+Third-party terms. You must comply with the Terms of Service and privacy policies of any third-party services used in conjunction with Ethelix. The bot merely streams content and has no control over the policies or functionality of these services.
+
+No liability for third-party issues. Ethelix is not responsible for outages, changes, or restrictions imposed by third-party platforms that may affect its functionality, including content removal or changes to API access.
+
+Data and bandwidth usage. Users are responsible for any costs incurred through the use of third-party services, including data and bandwidth usage.
+
+5. Changes and Updates
+Ethelix is continually updated to improve performance and add new features. You acknowledge that:
+
+Features and functionality may be added, modified, or removed at any time, with or without prior notice.
+Ethelix’s development team is not obligated to maintain specific features or offer long-term support for particular capabilities.
+Any updates to the Terms of Service will be communicated via announcements, either in the bot's official Discord server or other official communication channels. Continued use of Ethelix after such changes are made constitutes your acceptance of the updated Terms.
+6. Accountability and Moderation
+Server administrators and moderators are responsible for managing how Ethelix is used within their server, including setting appropriate permissions and monitoring activity. Ethelix offers flexible role-based controls to help prevent misuse.
+
+The Ethelix team reserves the right to take action in cases of abuse, including but not limited to:
+
+Limiting or banning users from accessing the bot.
+Removing the bot from servers that violate these Terms.
+Reporting violations of Discord’s Community Guidelines and Terms of Service to Discord’s Trust and Safety team.
+7. Privacy Policy
+Ethelix respects your privacy. While using the bot, certain data may be collected to ensure its functionality. This data may include:
+
+Server-specific configurations, such as settings and permissions.
+Command logs, which may record interactions with the bot (e.g., commands issued, songs queued).
+No personal user information (such as Discord usernames or account details) is collected or stored by Ethelix beyond what is necessary for basic bot functionality.
+
+8. Limitation of Liability
+Ethelix is provided "as is" without any warranties, express or implied. By using Ethelix, you agree that the bot’s creators and developers will not be held liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the bot, including but not limited to:
+
+Loss of data or server disruptions.
+Malfunctions or performance issues.
+Violations of third-party service terms resulting from bot usage.
+
+9. Termination
+You may stop using Ethelix at any time by removing the bot from your server. Ethelix’s developers reserve the right to terminate or suspend access to the bot without notice if you are found in violation of these Terms or if the bot’s continued use becomes unsustainable for any reason.
+
